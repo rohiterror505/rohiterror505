@@ -1,3 +1,4 @@
+
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h2 style="color:red">Greetings👋</h2>
 <img align="right" alt="Coding" width="400" src="https://images.pling.com/img/00/00/45/12/56/1230882/1efc768bd7a1683b1e19c689d1eed7f7c070.gif">
@@ -18,13 +19,13 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohiterror505&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="1rohiterror505" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1bhavyasingh1&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="1bhavyasingh1" /></p>
 
 
 
 
 :handshake:<p align="left">
 ##
-<a href="https://x.com/Rohit8206918286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="impudentwrecker" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="impudentwrecker" height="30" width="40" /></a>
+<a href="https://x.com/Rohit8206918286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rohit8206918286" height="30" width="40" /></a>
 </p>
+
